@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming 2024\\C#\\C# Assignments_ABOHADHOUD_Course 14\\BOOKSYSTEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3F13B7-7C05-4A87-8360-4DBCE6E983EE}|BOOKSYSTEM.csproj|d:\\programming 2024\\c#\\c# assignments_abohadhoud_course 14\\booksystem\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3F13B7-7C05-4A87-8360-4DBCE6E983EE}|BOOKSYSTEM.csproj|solutionrelative:information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3F13B7-7C05-4A87-8360-4DBCE6E983EE}|BOOKSYSTEM.csproj|d:\\programming 2024\\c#\\c# assignments_abohadhoud_course 14\\booksystem\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3F13B7-7C05-4A87-8360-4DBCE6E983EE}|BOOKSYSTEM.csproj|solutionrelative:delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3F13B7-7C05-4A87-8360-4DBCE6E983EE}|BOOKSYSTEM.csproj|d:\\programming 2024\\c#\\c# assignments_abohadhoud_course 14\\booksystem\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3F13B7-7C05-4A87-8360-4DBCE6E983EE}|BOOKSYSTEM.csproj|solutionrelative:edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3F13B7-7C05-4A87-8360-4DBCE6E983EE}|BOOKSYSTEM.csproj|d:\\programming 2024\\c#\\c# assignments_abohadhoud_course 14\\booksystem\\dialog_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC3F13B7-7C05-4A87-8360-4DBCE6E983EE}|BOOKSYSTEM.csproj|solutionrelative:dialog_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3F13B7-7C05-4A87-8360-4DBCE6E983EE}|BOOKSYSTEM.csproj|d:\\programming 2024\\c#\\c# assignments_abohadhoud_course 14\\booksystem\\edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC3F13B7-7C05-4A87-8360-4DBCE6E983EE}|BOOKSYSTEM.csproj|solutionrelative:edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3F13B7-7C05-4A87-8360-4DBCE6E983EE}|BOOKSYSTEM.csproj|d:\\programming 2024\\c#\\c# assignments_abohadhoud_course 14\\booksystem\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC3F13B7-7C05-4A87-8360-4DBCE6E983EE}|BOOKSYSTEM.csproj|solutionrelative:information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3F13B7-7C05-4A87-8360-4DBCE6E983EE}|BOOKSYSTEM.csproj|d:\\programming 2024\\c#\\c# assignments_abohadhoud_course 14\\booksystem\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC3F13B7-7C05-4A87-8360-4DBCE6E983EE}|BOOKSYSTEM.csproj|solutionrelative:category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3F13B7-7C05-4A87-8360-4DBCE6E983EE}|BOOKSYSTEM.csproj|d:\\programming 2024\\c#\\c# assignments_abohadhoud_course 14\\booksystem\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC3F13B7-7C05-4A87-8360-4DBCE6E983EE}|BOOKSYSTEM.csproj|solutionrelative:delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3F13B7-7C05-4A87-8360-4DBCE6E983EE}|BOOKSYSTEM.csproj|d:\\programming 2024\\c#\\c# assignments_abohadhoud_course 14\\booksystem\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC3F13B7-7C05-4A87-8360-4DBCE6E983EE}|BOOKSYSTEM.csproj|solutionrelative:add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC3F13B7-7C05-4A87-8360-4DBCE6E983EE}|BOOKSYSTEM.csproj|d:\\programming 2024\\c#\\c# assignments_abohadhoud_course 14\\booksystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC3F13B7-7C05-4A87-8360-4DBCE6E983EE}|BOOKSYSTEM.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Information.cs",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\C# Assignments_ABOHADHOUD_Course 14\\BOOKSYSTEM\\Information.cs",
+              "RelativeDocumentMoniker": "Information.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\C# Assignments_ABOHADHOUD_Course 14\\BOOKSYSTEM\\Information.cs",
+              "RelativeToolTip": "Information.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:27:13.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cs",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\C# Assignments_ABOHADHOUD_Course 14\\BOOKSYSTEM\\Delete.cs",
+              "RelativeDocumentMoniker": "Delete.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\C# Assignments_ABOHADHOUD_Course 14\\BOOKSYSTEM\\Delete.cs",
+              "RelativeToolTip": "Delete.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwFUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:27:54.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cs",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\C# Assignments_ABOHADHOUD_Course 14\\BOOKSYSTEM\\Edit.cs",
+              "RelativeDocumentMoniker": "Edit.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\C# Assignments_ABOHADHOUD_Course 14\\BOOKSYSTEM\\Edit.cs",
+              "RelativeToolTip": "Edit.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowHgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:27:31.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dialog_Add.cs [Design]",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\C# Assignments_ABOHADHOUD_Course 14\\BOOKSYSTEM\\Dialog_Add.cs",
+              "RelativeDocumentMoniker": "Dialog_Add.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\C# Assignments_ABOHADHOUD_Course 14\\BOOKSYSTEM\\Dialog_Add.cs [Design]",
+              "RelativeToolTip": "Dialog_Add.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:12:05.526Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Information.cs [Design]",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\C# Assignments_ABOHADHOUD_Course 14\\BOOKSYSTEM\\Information.cs",
+              "RelativeDocumentMoniker": "Information.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\C# Assignments_ABOHADHOUD_Course 14\\BOOKSYSTEM\\Information.cs [Design]",
+              "RelativeToolTip": "Information.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:11:57.091Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs [Design]",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\C# Assignments_ABOHADHOUD_Course 14\\BOOKSYSTEM\\Category.cs",
+              "RelativeDocumentMoniker": "Category.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\C# Assignments_ABOHADHOUD_Course 14\\BOOKSYSTEM\\Category.cs [Design]",
+              "RelativeToolTip": "Category.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:11:51.335Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cs [Design]",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\C# Assignments_ABOHADHOUD_Course 14\\BOOKSYSTEM\\Delete.cs",
+              "RelativeDocumentMoniker": "Delete.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\C# Assignments_ABOHADHOUD_Course 14\\BOOKSYSTEM\\Delete.cs [Design]",
+              "RelativeToolTip": "Delete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:11:36.53Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cs [Design]",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\C# Assignments_ABOHADHOUD_Course 14\\BOOKSYSTEM\\Edit.cs",
+              "RelativeDocumentMoniker": "Edit.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\C# Assignments_ABOHADHOUD_Course 14\\BOOKSYSTEM\\Edit.cs [Design]",
+              "RelativeToolTip": "Edit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:11:32.575Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Add.cs [Design]",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\C# Assignments_ABOHADHOUD_Course 14\\BOOKSYSTEM\\Add.cs",
+              "RelativeDocumentMoniker": "Add.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\C# Assignments_ABOHADHOUD_Course 14\\BOOKSYSTEM\\Add.cs [Design]",
+              "RelativeToolTip": "Add.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:11:28.425Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Programming 2024\\C#\\C# Assignments_ABOHADHOUD_Course 14\\BOOKSYSTEM\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Programming 2024\\C#\\C# Assignments_ABOHADHOUD_Course 14\\BOOKSYSTEM\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:11:13.062Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
